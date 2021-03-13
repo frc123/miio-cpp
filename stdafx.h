@@ -1,0 +1,23 @@
+#pragma once
+#include <stdio.h>   
+#include <sys/types.h>   
+#include <netinet/in.h>   
+#include <unistd.h>   
+#include <errno.h>   
+#include <string.h>   
+#include <stdlib.h>   
+#include <arpa/inet.h>
+#include <time.h>
+#include <thread>
+#include <mutex>
+#include <netinet/in.h>
+#include <ctype.h>
+#include <sys/stat.h>
+#include <wait.h>
+#include <cstdio>
+#include <asm-generic/socket.h>   
+#include <math.h>
+#include <cstring>
+#include <stdint.h>
+#include <string>
+using namespace std;
