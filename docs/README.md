@@ -1,29 +1,49 @@
 # Code Structure
 .
+
 ├── aes.c
+
 ├── aes.h
+
 ├── aes.hpp // [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c)
+
 ├── log_process.cpp
+
 ├── log_process.h
+
 ├── main.cpp // Entrance
+
 ├── Makefile
+
 ├── md5.cpp
+
 ├── md5.h // [JieweiWei/md5](https://github.com/JieweiWei/md5)
+
 ├── mi_home_aircondition.cpp
+
 ├── mi_home_aircondition.h // *air-conditioner class*
+
 ├── mi_home_device.cpp
+
 ├── mi_home_device.h // *miio protocol parent class*
+
 ├── rapidjson
+
 │   ├── // [Tencent/rapidjson](https://github.com/Tencent/rapidjson)
+
 ├── socket_class.cpp
+
 ├── socket_class.h // udp client/server encapsulation class
+
 ├── stdafx.h
+
 ├── type_tools.cpp
+
 └── type_tools.h  // type conversion tools
 
 # Makefile
 
-There is a important macro *BIGENDIAN*, and you should define it depends on your mechine.
+There is an important macro *BIGENDIAN*, and you should define it depends on your mechine.
 
 ```
 # IMPORTANT: If your machine is Big Endian, please remove the following "#"
