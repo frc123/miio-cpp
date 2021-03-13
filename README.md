@@ -2,6 +2,10 @@
 
 [Chinese Version 中文版](https://github.com/frc123/miio-cpp/blob/master/README.zh-CN.md)
 
+Documentation is updating
+
+文档更新中
+
 ***
 
 This is my Mi Home protocal C++ implementation.
