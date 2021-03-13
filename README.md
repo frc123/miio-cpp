@@ -1,11 +1,5 @@
 # miio-cpp
 
-[Chinese Version 中文版](https://github.com/frc123/miio-cpp/blob/master/README.zh-CN.md)
-
-Documentation is updating
-
-文档更新中
-
 ***
 
 This is my Mi Home protocal C++ implementation.
@@ -21,15 +15,15 @@ Document is updating.
 - 小米互联网空调X（1.5匹|变频|新一级能效）
 	- type: urn:miot-spec-v2:device:air-conditioner:0000A004:xiaomi-mt2:1
 
-## Secondary Develop Guide
+## Develop Guide
 
-For more Mi Home device, you may develop them based on smart-home-server/mi-home-device.
+[Documentation](https://github.com/frc123/miio-cpp/tree/master/docs)
 
-[Mi Home Device Protocal Documentaion](https://iot.mi.com/new/doc/design/spec/overall) will be helpful.
+[Deploy Example](https://github.com/frc123/smart-home)
 
 ## Library
 
-- [Tencent/rapidjson](https://www.runoob.com)
+- [Tencent/rapidjson](https://github.com/Tencent/rapidjson)
 - [JieweiWei/md5](https://github.com/JieweiWei/md5)
 - [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c)
 
