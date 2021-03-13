@@ -1,6 +1,6 @@
 # miio-cpp
 
-This is my Mi Home protocal C++ implementation.
+This is Mi Home protocal C++ implementation.
 
 You may carry out secondary development to apply to your furniture.
 
